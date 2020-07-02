@@ -37,5 +37,8 @@ johnLennonFacts(facts);
 var iLoveTheBeatles = function(num) {
   var num = [];
 
-  do
+  do {
+    num++;
+  } while (num <8);
+
 }
