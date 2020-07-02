@@ -33,3 +33,9 @@ var johnLennonFacts = function(factsArray) {
 }
 
 johnLennonFacts(facts);
+
+var iLoveTheBeatles = function(num) {
+  var num = [];
+
+  do 
+}
