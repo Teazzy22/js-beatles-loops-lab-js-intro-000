@@ -37,5 +37,5 @@ johnLennonFacts(facts);
 var iLoveTheBeatles = function(num) {
   var num = [];
 
-  do 
+  do
 }
